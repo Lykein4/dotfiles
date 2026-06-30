@@ -1,0 +1,9 @@
+[[plugin.deps]]
+use = "uhs-robert/sshfs"
+rev = "0d6e699"
+hash = "458a404b1b9d6e72ee27812629782a0b"
+
+[[flavor.deps]]
+use = "AdithyanA2005/nord"
+rev = "37ad6d4"
+hash = "11c216ce8ea93c3d9fd7c7e432e369eb"
